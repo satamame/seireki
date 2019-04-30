@@ -1,22 +1,13 @@
-Chrome拡張の雛形
+SEIREKI 拡張機能
 ========================
 
 概要
 -----
 
-これをダウンロードかcloneして、書き換えてください。
-
-
-各種ドキュメント/サンプルページ
------------------------------------
-
-- [使い方](http://qiita.com/waterada/private/f8a53677a46c131a3734)
-- [サンプルページ](https://waterada.github.io/chrome-ex-template/test/example.html)
-- [ChEx.js のドキュメント](ChEx-doc.md)
-- [単体テスト](https://waterada.github.io/chrome-ex-template/test/test.html)
-
+Web ページのテキスト要素内で、和暦になっているところを西暦にします。  
+元号と年がタグで分かれていたりすると変換対象になりません。
 
 License
 -----------------------------------
 
-MIT
+なし
